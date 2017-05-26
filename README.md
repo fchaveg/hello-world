@@ -1,2 +1,3 @@
 # hello-world
-solo otro repo
+
+Hola soy Felpe y me encanta javascript, espero aprenderlo y programar en full-stack
